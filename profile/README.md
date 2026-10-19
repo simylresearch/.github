@@ -15,7 +15,7 @@ What we publish can be read, run and criticized. Every figure we publish states 
 | Repository | What it is | Status |
 |---|---|---|
 | [cpp-cache](https://github.com/simylresearch/cpp-cache) | Concurrent in-memory cache for C++20 processes, with a single-flight protocol against request stampedes. | C++20 · MIT license · Promela/SPIN formal model included in the repository |
-| [gateway_cache](https://github.com/simylresearch/gateway_cache) | The Go implementation of the same cache protocol, designed for API gateways. | Go · MIT license · published in 2020 · in production since then on a sports data platform |
+| [gateway_cache](https://github.com/simylresearch/gateway_cache) | The Go implementation of the same cache protocol, designed for API gateways. | Go · MIT license · published in 2020 · in production since then on the sports data platform of Genius Sports |
 | [Aleph-w](https://github.com/simylresearch/Aleph-w) | Data structures and algorithms library in C++ with an emphasis on functional programming. | C++ · MIT license · under active development |
 | [go-breaker](https://github.com/simylresearch/go-breaker) | Circuit breaker for Go services: it trips on memory and latency thresholds, with trend analysis and OpsGenie alerts. | Go · MIT license · tests included |
 | [uconv](https://github.com/simylresearch/uconv) | Units and physical-quantities library in C++20, with strongly typed quantities at compile time and a DSL to define units and conversions. | C++20 · GPL-3.0 license · continuous integration |
@@ -48,7 +48,7 @@ Lo que publicamos se puede leer, ejecutar y criticar. Cada cifra que publicamos 
 | Repositorio | Qué es | Estado |
 |---|---|---|
 | [cpp-cache](https://github.com/simylresearch/cpp-cache) | Caché concurrente en memoria para procesos en C++20, con protocolo *single-flight* contra avalanchas de solicitudes. | C++20 · licencia MIT · modelo formal en Promela/SPIN incluido en el repositorio |
-| [gateway_cache](https://github.com/simylresearch/gateway_cache) | La implementación en Go del mismo protocolo de caché, pensada para gateways de API. | Go · licencia MIT · publicada en 2020 · en producción desde entonces en una plataforma de datos deportivos |
+| [gateway_cache](https://github.com/simylresearch/gateway_cache) | La implementación en Go del mismo protocolo de caché, pensada para gateways de API. | Go · licencia MIT · publicada en 2020 · en producción desde entonces en la plataforma de datos deportivos de Genius Sports |
 | [Aleph-w](https://github.com/simylresearch/Aleph-w) | Biblioteca de estructuras de datos y algoritmos en C++ con énfasis en programación funcional. | C++ · licencia MIT · en desarrollo activo |
 | [go-breaker](https://github.com/simylresearch/go-breaker) | Cortacircuitos (*circuit breaker*) para servicios en Go: se dispara por umbrales de memoria y latencia, con análisis de tendencia y alertas a OpsGenie. | Go · licencia MIT · pruebas incluidas |
 | [uconv](https://github.com/simylresearch/uconv) | Biblioteca de unidades y magnitudes físicas en C++20, con tipos fuertes en tiempo de compilación y un DSL para definir unidades y conversiones. | C++20 · licencia GPL-3.0 · integración continua |
