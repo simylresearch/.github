@@ -20,8 +20,11 @@ What we publish can be read, run and criticized. Every figure we publish states 
 | [go-breaker](https://github.com/simylresearch/go-breaker) | Circuit breaker for Go services: it trips on memory and latency thresholds, with trend analysis and OpsGenie alerts. | Go · MIT license · tests included |
 | [uconv](https://github.com/simylresearch/uconv) | Units and physical-quantities library in C++20, with strongly typed quantities at compile time and a DSL to define units and conversions. | C++20 · GPL-3.0 license · continuous integration |
 | [back-pvt](https://github.com/simylresearch/back-pvt) | PVT characterization of fluids: physical properties as a function of pressure and temperature, with its test suite. | C++ · GPL-3.0 license · tests included |
+| [simyl-benchmarks](https://github.com/simylresearch/simyl-benchmarks) | Reproducible benchmark harness for `cpp-cache` and `gateway_cache`: the same protocol in Go and C++20, with raw data and the results of October 2026. | Go · C++20 · MIT license · results published |
 
-The repositories in this organization are the company's copies of projects maintained by members of our team; each one links to its original. Licenses, credits and history are preserved.
+`simyl-benchmarks` is the company's own repository; the other repositories are the company's copies of projects maintained by members of our team, and each one links to its original. Licenses, credits and history are preserved.
+
+Results and method: [Benchmarks](https://simylresearch.com/en/benchmarks/) and [How we measure](https://simylresearch.com/en/method/), with downloadable templates.
 
 ## How we work
 
@@ -53,8 +56,11 @@ Lo que publicamos se puede leer, ejecutar y criticar. Cada cifra que publicamos 
 | [go-breaker](https://github.com/simylresearch/go-breaker) | Cortacircuitos (*circuit breaker*) para servicios en Go: se dispara por umbrales de memoria y latencia, con análisis de tendencia y alertas a OpsGenie. | Go · licencia MIT · pruebas incluidas |
 | [uconv](https://github.com/simylresearch/uconv) | Biblioteca de unidades y magnitudes físicas en C++20, con tipos fuertes en tiempo de compilación y un DSL para definir unidades y conversiones. | C++20 · licencia GPL-3.0 · integración continua |
 | [back-pvt](https://github.com/simylresearch/back-pvt) | Caracterización PVT de fluidos: propiedades físicas en función de la presión y la temperatura, con su batería de pruebas. | C++ · licencia GPL-3.0 · pruebas incluidas |
+| [simyl-benchmarks](https://github.com/simylresearch/simyl-benchmarks) | Harness reproducible de benchmarks para `cpp-cache` y `gateway_cache`: el mismo protocolo en Go y C++20, con los datos crudos y los resultados de octubre de 2026. | Go · C++20 · licencia MIT · resultados publicados |
 
-Los repositorios de esta organización son las copias de la empresa de proyectos que mantienen integrantes de nuestro equipo; cada uno enlaza a su original. Se conservan licencias, créditos e historial.
+`simyl-benchmarks` es un repositorio propio de la empresa; los demás son las copias de la empresa de proyectos que mantienen integrantes de nuestro equipo, y cada uno enlaza a su original. Se conservan licencias, créditos e historial.
+
+Resultados y método: [Benchmarks](https://simylresearch.com/es/benchmarks/) y [Cómo medimos](https://simylresearch.com/es/metodo/), con plantillas descargables.
 
 ### Cómo trabajamos
 
